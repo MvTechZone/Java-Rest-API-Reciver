@@ -1,2 +1,2 @@
-# Java-Rest-API-Reciver
+# Java-Rest-API-Receiver
 A java application to receive rest api responses.
